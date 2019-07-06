@@ -1,0 +1,48 @@
+Titulo: Medidor de auto-depreciação
+Descrição: Contabilizar sua auto depreciação.
+
+brainstorm:
+-DepreciaNão
+
+O que ele faz ?
+- Contabiliza a auto depreciação 
+
+Como ele faz ?
+- A cada auto depreciação o usuário poderá registrar a depreciação 
+
+
+Regras ?
+- O depreciado pode negar a depreciação caso só uma pessoa endosse a ação.
+
+
+Ideias:
+- Planos de cobrança
+- Quantidade de Catucadas confirmadas
+
+
+Personagens:
+- Catucador (quem da like)
+- Depreciado (quem fes a auto deprenciação)
+- Afagador (quem da um dislike) 
+- Dedo duro (quem entregou)
+
+
+
+Telas:
+- Inicial 
+   1. Listagem das depreciações do dia 
+   2. rank de depreciado e dedo duro
+- Login 
+   1. Usuario e senha (primeiro acesso primeiro nome como senha)
+
+
+Funcionalidade:
+- registrar Depreciação (hora e um comentário, seleciona o depreciado e uma 
+  testemunha caso tenha)
+  a testemunha ao receber a solicitação de testemunhar, aparecer a imagem e o audio
+  do filme de madmax (Testemunheeeeem)
+
+- 
+
+
+
